@@ -1,4 +1,3 @@
-
 Permissions
 
     What do the commands chmod, sudo, su, chown, chgrp do
@@ -7,4 +6,4 @@ Permissions
     How to change permissions, owner and group of a file
     Why can’t a normal user chown a file
     How to run a command with root privileges
-    How to change user ID or become superuser
+    How to change user ID or become superuser 
