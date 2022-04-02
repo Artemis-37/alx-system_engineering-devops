@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-I'm Software engineer
+#!/bin/bash
+first readme alx system engineering devops \n
